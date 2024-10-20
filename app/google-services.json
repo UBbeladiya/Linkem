@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "918523071386",
+    "project_id": "edulink-3bf5a",
+    "storage_bucket": "edulink-3bf5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918523071386:android:fadca7f63e77c4dc514823",
+        "android_client_info": {
+          "package_name": "com.edems.linkem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918523071386-1ogj3ittpb1fe84a79n5cqchkuo4k445.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edems.linkem",
+            "certificate_hash": "16f5029814e4be2c95766b12c9ed857c46ec5f92"
+          }
+        },
+        {
+          "client_id": "918523071386-oomc40082urg77d8k2tu1f16djvf6fm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm3h7JaZZJGj3pzx_S_U9BxTKQSJWOi4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918523071386-oomc40082urg77d8k2tu1f16djvf6fm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
